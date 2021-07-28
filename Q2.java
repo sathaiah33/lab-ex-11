@@ -7,7 +7,7 @@ package LAB11;
 
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 public class Q2 
 {  
